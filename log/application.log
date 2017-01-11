@@ -1,0 +1,5 @@
+2017-01-10 19:50:31,846 INFO  HelloExample2:12 - haha seid is logging haha
+2017-01-10 19:50:31,866 ERROR HelloExample2:16 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at com.mkyong.HelloExample2.divide(HelloExample2.java:24)
+	at com.mkyong.HelloExample2.main(HelloExample2.java:14)
