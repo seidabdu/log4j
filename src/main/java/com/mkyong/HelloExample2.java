@@ -9,6 +9,7 @@ public class HelloExample2{
 	public static void main(String[] args) {
 	
 		HelloExample2 obj = new HelloExample2();
+		System.out.println("seid");
 		logger.info("haha seid is logging haha");
 		try{
 			obj.divide();
